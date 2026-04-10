@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">HelpDeskApp</string>
+    <string name="title_activity_main">HelpDeskApp</string>
+    <string name="package_name">com.infinitesec.helpdesk</string>
+    <string name="custom_url_scheme">com.infinitesec.helpdesk</string>
+</resources>

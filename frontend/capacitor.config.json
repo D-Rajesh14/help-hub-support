@@ -1,0 +1,6 @@
+{
+  "appId": "com.infinitesec.helpdesk",
+  "appName": "HelpDeskApp",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
